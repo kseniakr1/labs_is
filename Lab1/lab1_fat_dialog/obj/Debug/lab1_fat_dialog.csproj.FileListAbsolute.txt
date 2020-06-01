@@ -1,0 +1,6 @@
+D:\Downloads\Telegram\4_kurs\IntelectSystems\Лабы\l1_fat_dialog\l1_fat_dialog\bin\Debug\lab1_fat_dialog.exe.config
+D:\Downloads\Telegram\4_kurs\IntelectSystems\Лабы\l1_fat_dialog\l1_fat_dialog\bin\Debug\lab1_fat_dialog.exe
+D:\Downloads\Telegram\4_kurs\IntelectSystems\Лабы\l1_fat_dialog\l1_fat_dialog\bin\Debug\lab1_fat_dialog.pdb
+D:\Downloads\Telegram\4_kurs\IntelectSystems\Лабы\l1_fat_dialog\l1_fat_dialog\obj\Debug\lab1_fat_dialog.csproj.CoreCompileInputs.cache
+D:\Downloads\Telegram\4_kurs\IntelectSystems\Лабы\l1_fat_dialog\l1_fat_dialog\obj\Debug\lab1_fat_dialog.exe
+D:\Downloads\Telegram\4_kurs\IntelectSystems\Лабы\l1_fat_dialog\l1_fat_dialog\obj\Debug\lab1_fat_dialog.pdb

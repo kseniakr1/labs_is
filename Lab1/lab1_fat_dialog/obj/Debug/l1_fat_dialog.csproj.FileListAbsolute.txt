@@ -1,0 +1,7 @@
+D:\Proga\C#\4_kurs\IntelectSystems\l1_fat_dialog\l1_fat_dialog\bin\Debug\l1_fat_dialog.exe.config
+D:\Proga\C#\4_kurs\IntelectSystems\l1_fat_dialog\l1_fat_dialog\bin\Debug\l1_fat_dialog.exe
+D:\Proga\C#\4_kurs\IntelectSystems\l1_fat_dialog\l1_fat_dialog\bin\Debug\l1_fat_dialog.pdb
+D:\Proga\C#\4_kurs\IntelectSystems\l1_fat_dialog\l1_fat_dialog\obj\Debug\l1_fat_dialog.csprojAssemblyReference.cache
+D:\Proga\C#\4_kurs\IntelectSystems\l1_fat_dialog\l1_fat_dialog\obj\Debug\l1_fat_dialog.csproj.CoreCompileInputs.cache
+D:\Proga\C#\4_kurs\IntelectSystems\l1_fat_dialog\l1_fat_dialog\obj\Debug\l1_fat_dialog.exe
+D:\Proga\C#\4_kurs\IntelectSystems\l1_fat_dialog\l1_fat_dialog\obj\Debug\l1_fat_dialog.pdb
